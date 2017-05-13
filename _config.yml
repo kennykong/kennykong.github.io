@@ -27,7 +27,7 @@ baidu_analysis:
 
 FB:
   comments :
-    provider : uyan
+    provider : duoshuo
     duoshuo:
         short_name : high0048
     disqus :
