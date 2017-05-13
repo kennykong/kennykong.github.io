@@ -27,11 +27,14 @@ baidu_analysis:
 
 FB:
   comments :
-    provider : duoshuo
+    provider : changyan
     duoshuo:
         short_name : high0048
     disqus :
         short_name : high0048
+    changyan :
+        appid : cyt0FC2lp
+        conf : prod_df8753ed1936f0e8dfb46e41f3b26694
     # facebook :
     #   appid : 123
     #   num_posts: 5
