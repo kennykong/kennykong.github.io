@@ -1,5 +1,5 @@
 # Site settings
-name: Less Is More
+name: 少即是多
 email: high0048@126.com
 author: Kenny Kong
 url: http://kennykong.github.io
@@ -8,7 +8,7 @@ github: https://github.com/kennykong/
 #baseurl: "/LessOrMore"
 description: Actually, less is more!
 meta_description: 孔祥毅; 个人博客; 心能诚意,事上磨练; 知行合一
-motto: It's our wits that make us men.
+motto: 知行合一，事上磨练
 banner: 无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。
 
 #permalink: /:categories/:year/:month/:day/:title/
