@@ -27,11 +27,11 @@ baidu_analysis:
 
 FB:
   comments :
-    provider : duoshuo
+    provider : uyan
     duoshuo:
         short_name : high0048
     disqus :
-        short_name : kennykong
+        short_name : high0048
     # facebook :
     #   appid : 123
     #   num_posts: 5
