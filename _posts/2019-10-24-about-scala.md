@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  关于函数式编程与scala
@@ -6,7 +5,6 @@ date:   2019-10-24 10:24:00 +0800
 categories: 编程
 tag: scala
 ---
-
 
 * content
 {:toc}
